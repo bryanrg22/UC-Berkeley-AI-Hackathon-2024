@@ -1,1 +1,1 @@
-# UC-Berkeley-AI-Hackathon
+# UC-Berkeley-AI-Hackathon-2024
